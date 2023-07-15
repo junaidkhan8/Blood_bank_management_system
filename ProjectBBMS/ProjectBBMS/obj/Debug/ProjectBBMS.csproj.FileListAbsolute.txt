@@ -1,0 +1,23 @@
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\bin\Debug\ProjectBBMS.exe.config
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\bin\Debug\ProjectBBMS.exe
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\bin\Debug\ProjectBBMS.pdb
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csprojAssemblyReference.cache
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.Properties.Resources.resources
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csproj.GenerateResource.cache
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.exe
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.pdb
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.Home.resources
+C:\Users\DANISH LAPTOP\source\repos\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.Donors.resources
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\bin\Debug\ProjectBBMS.exe.config
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\bin\Debug\ProjectBBMS.exe
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\bin\Debug\ProjectBBMS.pdb
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csproj.AssemblyReference.cache
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csproj.SuggestedBindingRedirects.cache
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.Donors.resources
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.Home.resources
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.Properties.Resources.resources
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csproj.GenerateResource.cache
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.csproj.CoreCompileInputs.cache
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.exe
+E:\2nd Semester Fall 2020\OOP Theory\Project\ProjectBBMS\ProjectBBMS\obj\Debug\ProjectBBMS.pdb
