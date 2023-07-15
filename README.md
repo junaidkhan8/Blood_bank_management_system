@@ -1,1 +1,2 @@
-# Blood_bank_management_system
+A Blood Bank Management System Created on C#.
+Window Based Project with all the OOP pillars implemented.
